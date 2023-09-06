@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! Welcome to my Page </h2>
+<h2 align="left">Hi 👋!  Welcome to my page </h2>
 
 ###
 -  Pursuing a degree in computer science.
